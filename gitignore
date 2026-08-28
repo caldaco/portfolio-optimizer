@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Streamlit
+.streamlit/
+.streamlit/secrets.toml
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+dca_log.json
+dca_tickers.json
+
+# Cache
+.cache/
+*.cache
+
+# Images/outputs
+*.png
+*.jpg
+*.jpeg
+
+# Environment variables
+.env
+.env.local
+secrets.toml
+
+# OS
+Thumbs.db
+.DS_Store
